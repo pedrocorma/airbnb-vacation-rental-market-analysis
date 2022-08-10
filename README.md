@@ -31,20 +31,31 @@ Analysing available public data sources to find insights that help to understand
   - Medium-high investment: Jerónimos, Fuentela reina.
   - High investment: Recoletos.
 
+![Esta es una imagen](/Datos/Imagenes/exhibit_1.png)
+
 **2. It is recommended to search for one-bedroom properties that can accommodate 3 guests.**
 
 - The number of guests that maximizes the purchase price paid is 3.
+
+![Esta es una imagen](/Datos/Imagenes/exhibit_2.png)
 
 **3. It is recommended to search for properties in one of the identified neighborhoods that are not necessarily close to points of interest.**
 
 - This properties are expected to have a lower purchase price.
 - It appears that proximity to points of interest does not have a particular impact on rental prices.
 
+![Esta es una imagen](/Datos/Imagenes/exhibit_3.png)
+
 **4. A new business model based on rentals for specific moments of high sporting interest, especially in the San Blas neighborhood should be explored.**
 
 - It is advisable to look for opportunities in the San Blas neighborhood.
 - The relationship between the purchase price and the rental price per night is quite good.
+
+![Esta es una imagen](/Datos/Imagenes/exhibit_4_1.png)
+
 - There are still many rentals that are not exploiting this potential.
+
+![Esta es una imagen](/Datos/Imagenes/exhibit_4_2.png)
 
 ## Project structure <a name="project-structure"></a>
 - :file_folder: Datos: Project datasets.
